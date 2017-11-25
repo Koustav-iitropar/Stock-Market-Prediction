@@ -1,3 +1,0 @@
-clear all;
-file=importdata('DJI.csv',',',1);
-X=fidata(1:2)
